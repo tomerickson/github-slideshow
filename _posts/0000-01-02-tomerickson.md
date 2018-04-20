@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Here is the text
+"Repent, Harlequin!" said the Ticktockman.
 Use the left arrow to go back!
